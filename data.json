@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "patientName": "Ravi Kumar",
+    "age": 45,
+    "disease": "Diabetes"
+  },
+  {
+    "id": 102,
+    "patientName": "Anitha",
+    "age": 32,
+    "disease": "Blood Pressure"
+  }
+]
